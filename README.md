@@ -1,1 +1,1 @@
-Prácticas de Percepción Computacional
+Prácticas de Deep Learning
